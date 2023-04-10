@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Background">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAAAAoCAEAAAAIIAAgAAABAAEAAQAAAgACAEAAA=</HashCode>
+      <FileName>Background.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snowflake">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIAASAAABSEAIAAAAAAAAAAAAABEAIAAAgAAA=</HashCode>
+      <FileName>Snowflake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Drawable" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Nazazer\Documents\SFML\include\SFML\Graphics\Drawable.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

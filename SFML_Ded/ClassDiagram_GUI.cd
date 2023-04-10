@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ngui::GUIable">
+    <Position X="16.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAABAAAAAAEIAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>GUI_Element.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ngui::Button">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEBAEAAQAABACAAAIEIAABACAACCAAAIAEAAAAAECAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ngui::Sign">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAABAAAEIAAAAAQACAAAAIAAAAgABECAA=</HashCode>
+      <FileName>Sign.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ngui::Slider">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAhAAAASCABACAAAIEIBAAAAAAACAIAAAEAAAAAEDAA=</HashCode>
+      <FileName>Slider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ngui::GUI">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAABABAAAAAAAIAAAAABAAAAAQAAAQAAAAEAAA=</HashCode>
+      <FileName>GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
